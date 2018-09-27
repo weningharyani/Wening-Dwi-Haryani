@@ -1,0 +1,10 @@
+F:\WENING\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+F:\WENING\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+F:\WENING\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+F:\WENING\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+F:\WENING\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+F:\WENING\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+F:\WENING\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\WENING\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\WENING\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\WENING\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
